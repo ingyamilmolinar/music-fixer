@@ -1,0 +1,6 @@
+requests
+unidecode
+mutagen
+discogs_client
+google
+pyacoustid
